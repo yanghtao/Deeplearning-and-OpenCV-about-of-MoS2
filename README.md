@@ -20,4 +20,5 @@ opencv-python == 4.5.6
 
 # 使用方法
   我们提供了训练好的模型以供大家尝试。可以通过Google drive下载并按照附录或模块内部`ReadMe.md`尝试使用。
+  link:https://drive.google.com/drive/folders/1xYEWDbPEMBjnJhE0Cp-JYJ0Mml94I9bW?usp=share_link
   如果想要训练自己的数据集，请结合附录即各模块内部ReadMe文件使用。
