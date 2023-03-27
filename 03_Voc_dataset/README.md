@@ -1,6 +1,5 @@
-# LRASPP(Searching for MobileNetV3)
-
-## 模块介绍
+# 介绍
+借鉴VOC2007数据集格式的语义分割网络模型所需数据集格式
 	
 
 
