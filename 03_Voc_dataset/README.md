@@ -1,6 +1,5 @@
-# LRASPP(Searching for MobileNetV3)
-
 ## 模块介绍
+按照指定的格式在内存各文件夹内存放你的数据
 	
 
 
