@@ -1,6 +1,6 @@
 import os
 
-# Implement automatic distribution of datasets to train, val, etc. txt files
+"""实现自动分配数据集给train，val等txt文件"""
 img_path = "./VOCdevkit/VOC2007/JPEGImages"
 txt_path = "./VOCdevkit/VOC2007/ImageSets/Segmentation"
 
@@ -27,7 +27,7 @@ def distrabution():
                 with open(txt_path + '/' + 'test.txt', 'a') as f:
                     f.write(str(file_name) + '\n')
 def main():
-    # Get the distribution of the dataset
+    """获取数据集分布"""
     distrabution()
 
 if __name__ == '__main__':
