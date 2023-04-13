@@ -1,3 +1,4 @@
-# 介绍
-  存放的是经过裁剪后的图像
+# Introduction
+ 
+  Here stores the images with the cropped sizes.
 
