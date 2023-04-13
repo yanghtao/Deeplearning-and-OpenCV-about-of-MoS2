@@ -1,2 +1,2 @@
-# 介绍
-  存放的是大尺寸图像
+# Introduction
+  Here store the orginal images.
