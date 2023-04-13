@@ -1,4 +1,4 @@
 # Introduction
  
-  Here stores the images with the cropped sizes.
+  Here store the images with the cropped sizes.
 
